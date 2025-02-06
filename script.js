@@ -78,6 +78,8 @@ function doPow() {
 }
 
 function doClear() {
+    document.getElementById("input1").value = "";
+    document.getElementById("input2").value = "";
     document.getElementById("output").innerHTML = "";
 }
 
