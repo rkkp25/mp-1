@@ -9,6 +9,7 @@
     font-family: monospace;
     width: 80%;
     margin: auto;
+    font-size: calc(4px + 1vw);
 }
 
 header {
@@ -69,7 +70,7 @@ nav li {
 
 main p {
     margin: 0 1vw;
-    font-size: calc(3px + 1vw);
+    font-size: calc(4px + 1vw);
 }
 
 footer {

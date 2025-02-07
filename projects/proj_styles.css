@@ -113,12 +113,12 @@ input {
     #flower1 {
         max-width: 140px;
         left: 65vw;
-        top: 160vw;
+        top: 100vw;
     }
     #flower2 {
         max-width: 140px;
-        left: 4vw;
-        top: 160vw;
+        left: 5vw;
+        top: 100vw;
     }
 }
 

@@ -74,6 +74,9 @@ function doPow() {
         document.getElementById("output").style.color = "black";
     }
 
+    if (input1 == 0 && input2 == 0) {
+        output = 0;
+    }
     document.getElementById("output").innerHTML = String(output);
 }
 
